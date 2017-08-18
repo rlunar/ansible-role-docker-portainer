@@ -21,4 +21,4 @@ This role requires Ansible 2.0 or higher, and platform requirements are listed i
 MIT
 
 ##  Author Information
-This role was created in 2017 by [rlunar](https://github.com/rlunar/) original package created by [elnebuloso](https://github.com/elnebuloso/)
+This role was created in 2017 by [Roberto Luna](https://github.com/rlunar/) original package created by [elnebuloso](https://github.com/elnebuloso/)
